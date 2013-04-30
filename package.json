@@ -1,0 +1,19 @@
+{
+  "name": "udp-client",
+  "version": "0.0.1",
+  "description": "Send fire-and-forget UDP",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/brianc/udp-gun.git"
+  },
+  "keywords": [
+    "udp",
+    "UDP"
+  ],
+  "author": "Brian M. Carlson",
+  "license": "MIT"
+}
