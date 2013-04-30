@@ -1,6 +1,6 @@
 {
   "name": "udp-client",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Send fire-and-forget UDP",
   "main": "index.js",
   "scripts": {
